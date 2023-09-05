@@ -2,7 +2,7 @@
 
 In this repository, you will find the references used in my presentation for the Microbiome Friday. The title of my presentation is **The data essence is not invisible to the eyes: exploring microbiome data through the lens of model-based approaches**. The references stored here provide further reading and support for the concepts discussed in my presentation.
 In addition to the references, I also included links to tutorials for the methods I discussed in my presentation. I hope to make it easier for you to apply the model-based approaches for analysis of -omics data.
-The Petit Prince's analogy was originally presented by [Susan Holmes](https://statistics.stanford.edu/people/susan-holmes) in a talk available online in the YouTube channel of [IPAM](https://youtu.be/uG2YRB77RUo?si=TBsLqE3fLLXelHI_ )
+The Petit Prince's analogy was originally presented by [Susan Holmes](https://statistics.stanford.edu/people/susan-holmes) in a talk available online in the YouTube channel of [IPAM](https://youtu.be/uG2YRB77RUo?si=TBsLqE3fLLXelHI_ ) and inspired this presentation.
 
 # References (in order of appearance)
 
